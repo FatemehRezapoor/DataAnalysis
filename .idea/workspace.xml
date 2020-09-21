@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ea8a6de-c4c7-4227-8943-8d8e5eaa6890" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/C-sharp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/.vs/ConsoleApp2/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/storage.ide-shm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/storage.ide-wal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/.vs/Forloop/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/.vs/Forloop/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/.vs/Forloop/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/bin/Debug/Forloop.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/bin/Debug/Forloop.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/Forloop.csprojAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/Forloop.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/Forloop.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/.vs/Function_passcode/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/.vs/Function_passcode/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/.vs/Function_passcode/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/bin/Debug/Function_passcode.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/bin/Debug/Function_passcode.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/Function_passcode.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/Function_passcode.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/.vs/Function_return variable/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/.vs/Function_return variable/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/.vs/Function_return variable/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/bin/Debug/Function_return variable.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/bin/Debug/Function_return variable.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/Function_return variable.csprojAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/Function_return variable.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/Function_return variable.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/.vs/Lesson1/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/.vs/Lesson1/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/.vs/Lesson1/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/bin/Debug/Lesson1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/bin/Debug/Lesson1.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/Lesson1.csprojAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/Lesson1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/Lesson1.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/.vs/Multiple choice/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/.vs/Multiple choice/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/.vs/Multiple choice/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/bin/Debug/Multiple choice.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/bin/Debug/Multiple choice.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/Multiple choice.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/Multiple choice.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/.vs/Passcode/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/.vs/Passcode/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/.vs/Passcode/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/bin/Debug/Passcode.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/bin/Debug/Passcode.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/Passcode.csprojAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/Passcode.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/Passcode.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/.vs/Student manager_challenge/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/.vs/Student manager_challenge/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/.vs/Student manager_challenge/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/bin/Debug/Student manager_challenge.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/bin/Debug/Student manager_challenge.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/Student manager_challenge.csprojAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/Student manager_challenge.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/Student manager_challenge.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/StudentManager_List" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/.vs/Studenttracker_array/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/.vs/Studenttracker_array/v15/Server/sqlite3/db.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/.vs/Studenttracker_array/v15/Server/sqlite3/storage.ide" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/.vs/Studenttracker_array/v15/Server/sqlite3/storage.ide-shm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/.vs/Studenttracker_array/v15/Server/sqlite3/storage.ide-wal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/bin/Debug/Studenttracker_array.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/bin/Debug/Studenttracker_array.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/Studenttracker_array.csprojAssemblyReference.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/Studenttracker_array.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/Studenttracker_array.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/Click on and select import scheme.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/Packagesetup_python.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../NumpyL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/ConsoleApp2/ConsoleApp2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/Forloop.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/bin/Debug/Forloop.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/Forloop.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/Forloop.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Forloop/Forloop/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/Function_passcode.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/bin/Debug/Function_passcode.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/Function_passcode.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/Function_passcode.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_passcode/Function_passcode/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/Function_return variable.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/bin/Debug/Function_return variable.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/Function_return variable.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/Function_return variable.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Function_return variable/Function_return variable/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/Lesson1.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/bin/Debug/Lesson1.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/Lesson1.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/Lesson1.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Lesson1/Lesson1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/Multiple choice.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/bin/Debug/Multiple choice.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/Multiple choice.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/Multiple choice.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Multiple choice/Multiple choice/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/Passcode.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/bin/Debug/Passcode.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/Passcode.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/Passcode.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Passcode/Passcode/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/Student manager_challenge.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/bin/Debug/Student manager_challenge.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/Student manager_challenge.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/Student manager_challenge.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Student manager_challenge/Student manager_challenge/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/App.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/Program.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/Studenttracker_array.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/bin/Debug/Studenttracker_array.exe.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/Studenttracker_array.csproj.CoreCompileInputs.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/Studenttracker_array.csproj.FileListAbsolute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C_Sharp/Studenttracker_array/Studenttracker_array/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/.idea/LearnPythonTheHardWay.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/debug.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/read.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/.idea/DIP imagePro.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/DIP imagePro/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/Linux/.idea/Linux.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/Linux/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/Linux/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/Linux/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Matlab/Linux/MRItograssi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonExercise/.idea/PythonExercise.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonExercise/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonExercise/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonExercise/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonExercise/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E40Module,class.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/Listcommands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Numpy/L1Numpyintro.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E16ReadWrite.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E16ReadWrite.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E18NamesVariables.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E18NamesVariables.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E1_10Print.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E1_10Print.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E21FunctionReturn.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E21FunctionReturn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E29_31Whatif.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E29_31Whatif.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E32ForLoops.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E32ForLoops.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E33WhileLoop.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E33WhileLoop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/E39Dictionary.py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/E39Dictionary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/inheritance(class).py" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/inheritance(class).py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LearnPythonTheHardWay/test.txt" afterPath="$PROJECT_DIR$/../LearnPythonTheHardWay/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex1.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex11.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex11.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex12.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex12.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex13.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex13.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex17.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex17.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex18.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex18.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex2.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex20.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex20.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex3.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex4.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex5.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex6.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex6.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex8.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex8.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonExercise/Ex9.py" afterPath="$PROJECT_DIR$/../PythonExercise/Ex9.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="17.7 Data-ExremeValueMultivariate.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17.7 Data-ExremeValueMultivariate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="e#177#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>c.NotebookApp.no</find>
+      <find>lin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/02_02_lists_begin.py" />
+        <option value="$PROJECT_DIR$/1ListIntro.py" />
+        <option value="$PROJECT_DIR$/2. DicIntro.py" />
+        <option value="$USER_HOME$/.jupyter/jupyter_notebook_config.py" />
+        <option value="$PROJECT_DIR$/3. Comprenesions.py" />
+        <option value="$PROJECT_DIR$/../LearnPythonTheHardWay/E45Generator.py" />
+        <option value="$PROJECT_DIR$/4. Anagram project-Challenge.py" />
+        <option value="$PROJECT_DIR$/4. Anagram project.py" />
+        <option value="$PROJECT_DIR$/5. Numpy.py" />
+        <option value="$PROJECT_DIR$/8. Numpy-RecordsDates.py" />
+        <option value="$PROJECT_DIR$/9. Numpy- WeatherProject.py" />
+        <option value="$PROJECT_DIR$/11. Panda-Index.py" />
+        <option value="$PROJECT_DIR$/12. Panda-DataFrame-Pro.py" />
+        <option value="$PROJECT_DIR$/13. Panda-Index.py" />
+        <option value="$PROJECT_DIR$/14. Panda-Plot.py" />
+        <option value="$PROJECT_DIR$/7.1 Numpy-BooleanMask.py" />
+        <option value="$PROJECT_DIR$/6. Numpy-Math.py" />
+        <option value="$PROJECT_DIR$/7.2 Numpy-StructuredArray.py" />
+        <option value="$PROJECT_DIR$/6.1 Numpy-PLoting.py" />
+        <option value="$PROJECT_DIR$/5. Numpy-Intro.py" />
+        <option value="$PROJECT_DIR$/8.1 Numpy-ArrayManpulate.py" />
+        <option value="$PROJECT_DIR$/8.2 Numpy-Matrix.py" />
+        <option value="$PROJECT_DIR$/9.1 Numpy-FindPattern.py" />
+        <option value="$PROJECT_DIR$/9.1 Numpy-Sympy.py" />
+        <option value="$PROJECT_DIR$/9.2 Numpy-Scipy.py" />
+        <option value="$PROJECT_DIR$/7. Numpy-IndexSlice.py" />
+        <option value="$PROJECT_DIR$/9.3 Numpy-Exercise.py" />
+        <option value="$PROJECT_DIR$/11. Panda-DataFrameIntro.py" />
+        <option value="$PROJECT_DIR$/15. Data-FilterSelect.py" />
+        <option value="$PROJECT_DIR$/10. Panda-Intro.py" />
+        <option value="$PROJECT_DIR$/15. Data-MissingValue.py" />
+        <option value="$PROJECT_DIR$/15. Data-FilterSelect - Copy.py" />
+        <option value="$PROJECT_DIR$/15. Data-RemoveDuplicate.py" />
+        <option value="$PROJECT_DIR$/15.4 Data-TransformationConcatanation.py" />
+        <option value="$PROJECT_DIR$/15.5 Data-Grouping.py" />
+        <option value="$PROJECT_DIR$/16.0 Data-VisualizationIntro.py" />
+        <option value="$PROJECT_DIR$/16.1 Data-StandardGraphics.py" />
+        <option value="$PROJECT_DIR$/16.2 Data-PlotElements.py" />
+        <option value="$PROJECT_DIR$/16.3 Data-PlotFormating.py" />
+        <option value="$PROJECT_DIR$/16.4 Data-PlotAnnotation.py" />
+        <option value="$PROJECT_DIR$/16.5 Data-PlotTimeseries.py" />
+        <option value="$PROJECT_DIR$/16.6 Data-PlotStatisticalGraph.py" />
+        <option value="$PROJECT_DIR$/17.0 Data-BasicMath.py" />
+        <option value="$PROJECT_DIR$/17.1 Data-SummaryStatistic.py" />
+        <option value="$PROJECT_DIR$/17.2 Data-SummaryCategorizeData.py" />
+        <option value="$PROJECT_DIR$/17.3 Data-ParametricCorrelation.py" />
+        <option value="$PROJECT_DIR$/17.4 Data-NonParametricCorrelation.py" />
+        <option value="$PROJECT_DIR$/17.4 Data-TransformDataDistribution.py" />
+        <option value="$PROJECT_DIR$/17.6 Data-ExremeValueAnalysis.py" />
+        <option value="$PROJECT_DIR$/17.7 Data-ExremeValueMultivariate.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataScience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScience" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Repository\DataScience" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.17.7 Data-ExremeValueMultivariate">
+    <configuration name="17.3 Data-ParametricCorrelation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.3 Data-ParametricCorrelation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="17.4 Data-NonParametricCorrelation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.4 Data-NonParametricCorrelation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="17.4 Data-TransformDataDistribution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.4 Data-TransformDataDistribution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="17.6 Data-ExremeValueAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.6 Data-ExremeValueAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="17.7 Data-ExremeValueMultivariate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataScience" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.7 Data-ExremeValueMultivariate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.17.3 Data-ParametricCorrelation" />
+      <item index="1" class="java.lang.String" itemvalue="Python.17.4 Data-NonParametricCorrelation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.17.4 Data-TransformDataDistribution" />
+      <item index="3" class="java.lang.String" itemvalue="Python.17.6 Data-ExremeValueAnalysis" />
+      <item index="4" class="java.lang.String" itemvalue="Python.17.7 Data-ExremeValueMultivariate" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.17.7 Data-ExremeValueMultivariate" />
+        <item index="1" class="java.lang.String" itemvalue="Python.17.6 Data-ExremeValueAnalysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.17.4 Data-TransformDataDistribution" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17.4 Data-NonParametricCorrelation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.17.3 Data-ParametricCorrelation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea8a6de-c4c7-4227-8943-8d8e5eaa6890" name="Default" comment="" />
+      <created>1595354712951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595354712951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="976" height="1038" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3422222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19075829" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819906" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39099526" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Anagram project-Challenge.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="max_len" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/6. Numpy-Math.py" />
+    <entry file="file://$PROJECT_DIR$/6. Numpy-MathBroadcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.1 Numpy-PLoting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.2 Numpy-Matrix.py" />
+    <entry file="file://$PROJECT_DIR$/9.1 Numpy-FindPattern.py" />
+    <entry file="file://$PROJECT_DIR$/9.2 Numpy-Scipy.py" />
+    <entry file="file://$PROJECT_DIR$/5. Numpy-Intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="58" column="15" lean-forward="true" selection-start-line="58" selection-start-column="15" selection-end-line="58" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. ListIntro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.1 Numpy-BooleanMask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7. Numpy-IndexSlice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="32" column="121" lean-forward="true" selection-start-line="32" selection-start-column="121" selection-end-line="32" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.3 Numpy-Exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="97" column="52" lean-forward="false" selection-start-line="97" selection-start-column="52" selection-end-line="97" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Anagram project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="71" column="17" lean-forward="true" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.1 Numpy-Sympy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.2 Numpy-Scipy - Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Panda-DataFrame-Pro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13. Panda-Index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="50" column="85" lean-forward="true" selection-start-line="50" selection-start-column="85" selection-end-line="50" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Data-FilterSelect.py" />
+    <entry file="file://$PROJECT_DIR$/10. Panda-Intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Data-MissingValue.py" />
+    <entry file="file://$PROJECT_DIR$/15. Data-MissingValue - Copy.py" />
+    <entry file="file://$PROJECT_DIR$/11. Panda-DataFrameIntro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. Data-FilterSelect - Copy.py" />
+    <entry file="file://$PROJECT_DIR$/15. Data-RemoveDuplicate.py" />
+    <entry file="file://$PROJECT_DIR$/15.4 Data-TransformationConcatanation.py" />
+    <entry file="file://$PROJECT_DIR$/7.2 Numpy-StructuredArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Anagram project-Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+          <folding>
+            <marker date="1595867181123" expanded="true" signature="0:224" ph="..." />
+            <marker date="1595867181123" expanded="false" signature="225:285" ph="import ..." />
+            <marker date="1595867181123" expanded="true" signature="525:673" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="969:1010" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="1031:1064" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="1095:1170" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="1197:1269" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="1591:1700" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="1817:1850" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="1942:2008" ph="..." />
+            <marker date="1595867181123" expanded="true" signature="2259:3400" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1595867181123" expanded="true" signature="3726:3763" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.1 Numpy-ArrayManpulate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9. Numpy- WeatherProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8. Numpy-RecordsDates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="33" column="226" lean-forward="false" selection-start-line="33" selection-start-column="226" selection-end-line="33" selection-end-column="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.5 Data-Grouping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.0 Data-VisualizationIntro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.2 Data-PlotElements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.1 Data-StandardGraphics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.3 Data-PlotFormating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.3 Data-PlotFormating - Copy.py" />
+    <entry file="file://$PROJECT_DIR$/16.5 Data-PlotTimeseries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="99" lean-forward="false" selection-start-line="25" selection-start-column="99" selection-end-line="25" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.4 Data-PlotAnnotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="34" column="103" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="34" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.6 Data-PlotStatisticalGraph.py" />
+    <entry file="file://$PROJECT_DIR$/16.6 Data-PlotStatisticalGraph - Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="19" column="103" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="19" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.1 Data-SummaryStatistic.py" />
+    <entry file="file://$PROJECT_DIR$/17.2 Data-SummaryCategorizeData.py" />
+    <entry file="file://$PROJECT_DIR$/17.0 Data-BasicMath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <marker date="1597074229771" expanded="true" signature="0:52" ph="..." />
+            <marker date="1597074229771" expanded="false" signature="54:103" ph="import ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.1 Data-SummaryStatistic - Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1597084320029" expanded="true" signature="0:80" ph="..." />
+            <marker date="1597084320029" expanded="true" signature="82:224" ph="import ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.2 Data-SummaryCategorizeData - Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1597085262786" expanded="true" signature="0:51" ph="..." />
+            <marker date="1597085262786" expanded="false" signature="53:195" ph="import ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.3 Data-ParametricCorrelation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1600697591639" expanded="true" signature="0:293" ph="..." />
+            <marker date="1600697591639" expanded="true" signature="295:465" ph="import ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.4 Data-NonParametricCorrelation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.5 Data-NonParametricCorrelation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.4 Data-TransformDataDistribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="53" column="26" lean-forward="false" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <marker date="1600706138708" expanded="true" signature="0:221" ph="..." />
+            <marker date="1600706138708" expanded="false" signature="223:450" ph="import ..." />
+            <marker date="1600706138708" expanded="true" signature="1167:1268" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.5 Data-NonParametricCorrelation - Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1600705308385" expanded="true" signature="0:951" ph="..." />
+            <marker date="1600705308385" expanded="false" signature="953:1120" ph="import ..." />
+            <marker date="1600705308385" expanded="true" signature="2050:2108" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.6 Data-ExremeValueAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.7 Data-ExremeValueMultivariate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#177#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
